@@ -10,6 +10,7 @@
     "liquid": false
   },
   "dependencies": {
-    "font-open-sans": "https://github.com/insales-components/font-open-sans"
+    "font-open-sans": "https://github.com/insales-components/font-open-sans",
+    "scss_variables_default": "https://github.com/insales-components/scss_variables_default"
   }
 }
