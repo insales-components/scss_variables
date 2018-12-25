@@ -9,5 +9,7 @@
     "common": false,
     "liquid": false
   },
-  "dependencies": {}
+  "dependencies": {
+    "font-open-sans": "https://github.com/insales-components/font-open-sans"
+  }
 }
